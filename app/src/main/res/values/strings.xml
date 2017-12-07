@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BrainTester</string>
+    <string name="CHECK_ANSWER_BUTTON">Check answer</string>
+    <string name="START_TEST_BUTTON">Start all</string>
+    <string name="NOTHIN_CHOOSE_TOAST">You didn\'t choose any option</string>
+    <string name="CREATE_TEST_BUTTON">Create test</string>
+    <string name="QUESTION">Question</string>
+    <string name="OPTION_1">Option 1</string>
+    <string name="OPTION_2">Option 2</string>
+    <string name="OPTION_3">Option 3</string>
+    <string name="OPTION_4">Option 4</string>
+    <string name="CORRECT_ANSWER">Correct answer</string>
+    <string name="ADD_NEW_TEST_BUTTON">Add test</string>
+    <string name="GET_TEST">Get test</string>
+    <string name="UPDATE_TEST">Update</string>
+    <string name="DELETE_TEST">Delete all</string>
+    <string name="DELETE_RAW">Delete raw</string>
+    <string name="ID_FIELD">ID</string>
+    <string name="RANDOM_QUESTION_BUTTON">Random question</string>
+    <string name="COMPLETE_ALL_QUESTIONS">You complete all questions</string>
+    <string name="TOTAL_NUMBER_OF_QUESTIONS">Total number of questions: \</string>
+    <string name="TOPIC_OF_CQUESTION">Topic</string>
+    <string name="FIND_BY_ID">Find by ID</string>
+    <string name="START_TESTING">Start test</string>
+    <string name="ADD_BUTTON">+</string>
+    <string name="REMOVE_BUTTON">-</string>
+    <string name="CUSTOM_TEST_BUTTON">Start test</string>
+    <string name="NEXT_QUESTION">Next question</string>
+</resources>
